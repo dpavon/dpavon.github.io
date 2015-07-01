@@ -4,10 +4,10 @@ title: Games
 permalink: /games/
 ---
 
-{% for game in site.data.games %}
-<ul>
-  <li>
-    <iframe src="{{ game.url }}" width="552" height="167" frameborder="0"></iframe>
-  </li>
+<ul class="games-list">
+  {% for game in site.data.games %}
+    <li>
+      <iframe src="{{ game.url }}" width="552" height="167" frameborder="0"></iframe>
+    </li>
+  {% endfor %}
 </ul>
-{% endfor %}
