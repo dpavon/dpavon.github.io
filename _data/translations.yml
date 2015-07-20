@@ -1,0 +1,17 @@
+en:
+  readmore: 'Read more'
+  urlblog: ''
+  blog: 'Blog'
+  urlunity: 'unity'
+  unity: 'Unity3D'
+  urlabout: 'about'
+  about: 'About'
+es:
+  readmore: 'Leer más'
+  urlblog: 'es/'
+  blog: 'Blog'
+  urlunity: 'es/unity'
+  unity: 'Unity3D'
+  urlabout: 'es/about'
+  about: 'Sobre mí'
+
