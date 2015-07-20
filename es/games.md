@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Games
-permalink: /games/
+title: Proyectos Unity3D
+permalink: /es/unity/
 ---
 
 <ul class="games-list">

@@ -25,14 +25,14 @@
           <a href="{{ site.baseurl }}/" class="site-avatar"><img src="{{ site.avatar }}" /></a>
 
           <div class="site-info">
-            <h1 class="site-name"><a href="{{ site.baseurl }}/">{{ site.name }}</a></h1>
-            <p class="site-description">{{ site.description }}</p>
+            <h1 class="site-name"><a href="{{ site.baseurl }}/{{ page.lang | replace: 'en', '' }}">{{ site.name }}</a></h1>
+            <p class="site-description">{{ site.data.translations.[page.lang].abstract }}</p>
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/games">Games</a>
-            <a href="{{ site.baseurl }}/about">About</a>
+            <a href="{{ site.baseurl }}/{{site.data.translations.[page.lang].urlblog}}">{{site.data.translations.[page.lang].blog}}</a>
+            <a href="{{ site.baseurl }}/{{site.data.translations.[page.lang].urlunity}}">{{site.data.translations.[page.lang].unity}}</a>
+            <a href="{{ site.baseurl }}/{{site.data.translations.[page.lang].urlabout}}">{{site.data.translations.[page.lang].about}}</a>
           </nav>
         </header>
       </div>

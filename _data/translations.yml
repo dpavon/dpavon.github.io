@@ -1,0 +1,19 @@
+en:
+  abstract: 'Drupal, Android and Unity3D Developer'
+  readmore: 'Read more'
+  urlblog: ''
+  blog: 'Blog'
+  urlunity: 'unity'
+  unity: 'Unity3D'
+  urlabout: 'about'
+  about: 'About'
+es:
+  abstract: 'Desarrollador Drupal, Android y Unity3D'
+  readmore: 'Leer más'
+  urlblog: 'es/'
+  blog: 'Blog'
+  urlunity: 'es/unity'
+  unity: 'Unity3D'
+  urlabout: 'es/about'
+  about: 'Sobre mí'
+
