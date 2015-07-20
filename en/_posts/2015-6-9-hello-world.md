@@ -2,6 +2,7 @@
 layout: post
 title: Hello World!
 permalink: /blog/:title
+language: en
 ---
 
 Welcome! This is the first post of a blog created statically with both Jekyll and GitHub pages.
