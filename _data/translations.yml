@@ -1,4 +1,5 @@
 en:
+  abstract: 'Drupal, Android and Unity3D Developer'
   readmore: 'Read more'
   urlblog: ''
   blog: 'Blog'
@@ -7,6 +8,7 @@ en:
   urlabout: 'about'
   about: 'About'
 es:
+  abstract: 'Desarrollador Drupal, Android y Unity3D'
   readmore: 'Leer más'
   urlblog: 'es/'
   blog: 'Blog'
