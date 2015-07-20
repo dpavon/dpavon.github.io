@@ -7,6 +7,7 @@ en:
   unity: 'Unity3D'
   urlabout: 'about'
   about: 'About'
+  writtenon: 'Written on'
 es:
   abstract: 'Desarrollador Drupal, Android y Unity3D'
   readmore: 'Leer más'
@@ -16,4 +17,4 @@ es:
   unity: 'Unity3D'
   urlabout: 'es/about'
   about: 'Sobre mí'
-
+  writtenon: 'Escrito el'
