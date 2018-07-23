@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Hello World!
-categories: [hello world,myself,drupal,unity3D,games]
+tags: [hello-world,myself,drupal,unity3D,games]
 ---
 
 Welcome! This is the first post of a blog created statically with both Jekyll and GitHub pages.
